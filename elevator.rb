@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 require 'json'
 require 'net/http'
 BUFFER_SIZE = 80 # locations per request
